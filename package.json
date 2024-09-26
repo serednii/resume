@@ -1,0 +1,9 @@
+{
+  "devDependencies": {
+    "ftp-deploy": "^2.4.7",
+    "gh-pages": "^6.1.1"
+  },
+  "scripts": {
+    "deploy": "gh-pages -d ./"
+  }
+}
